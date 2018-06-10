@@ -1,6 +1,5 @@
 package com.kejeiri.courses.didemo;
 
-import com.kejeiri.courses.didemo.beancycle.CustomBeanPostProcessor;
 import com.kejeiri.courses.didemo.controllers.ConstructorInjectedController;
 import com.kejeiri.courses.didemo.controllers.MyController;
 import com.kejeiri.courses.didemo.controllers.PropertyInjectedController;
