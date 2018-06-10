@@ -12,4 +12,5 @@ We also analyses what is required to have a succesfull inversion of control and 
 * @Component
 * @Service
 * ...
+
 All of this by following the good old [S.O.L.I.D](https://www.tomdalling.com/blog/category/software-design/) principles! 
