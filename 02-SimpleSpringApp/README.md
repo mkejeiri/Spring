@@ -1,5 +1,5 @@
 # Spring Framework 5: Beginner to Guru 
-This simple app show how to use spring with H2 in memory relational atabase, its uses the following entities:
+This simple app shows how to use Spring with H2 in memory relational database, its uses the following entities:
 * Author
 * Book
 * Publisher
