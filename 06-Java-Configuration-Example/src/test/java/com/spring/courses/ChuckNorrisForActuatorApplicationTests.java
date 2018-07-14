@@ -1,4 +1,4 @@
-package com.spring.course.chucknorrisforactuator;
+package com.spring.courses;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

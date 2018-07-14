@@ -1,4 +1,4 @@
-package com.spring.course.chucknorrisforactuator.services;
+package com.spring.courses.services;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.stereotype.Service;

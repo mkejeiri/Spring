@@ -1,6 +1,6 @@
-package com.spring.course.chucknorrisforactuator.controllers;
+package com.spring.courses.controllers;
 
-import com.spring.course.chucknorrisforactuator.services.JokeService;
+import com.spring.courses.services.JokeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
